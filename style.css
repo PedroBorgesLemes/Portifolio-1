@@ -1,0 +1,39 @@
+*{
+    background-image: url('https://images.homify.com/c_fill,f_auto,q_0,w_740/v1527692641/p/photo/image/2577046/azzurro_polvere_2.jpg');
+ 
+}
+
+
+
+*.h1{
+color: crimson;
+}
+
+*.nome{
+  color: black;
+  border-radius: 15px;
+}
+
+
+
+*.tel{
+color: crimson;
+border-radius: 15px;
+
+}
+
+*.sobre{
+color: darkmagenta;
+border-radius: 15px;
+}
+
+*.e{
+color: darkorange;
+border-radius: 15px;
+
+}
+*.tel{
+color: cornsilk;
+border-radius: 15px;
+}
+
